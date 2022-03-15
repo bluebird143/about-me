@@ -143,7 +143,10 @@ display: flex;
     }
 
     .section-container-about{
+      border: 1px solid black;
       grid-area: aboutme ;
+background-color: rgba(248, 167, 138, 0.932);
+
     }
     
 
